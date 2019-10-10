@@ -7,7 +7,7 @@
 ### Download and install
 
 ```bash
-$ go get -u -v github.com/go-session/redis
+$ go get -u -v github.com/snifferhu/go-session-redis
 ```
 
 ### Create file `server.go`
